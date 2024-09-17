@@ -1,0 +1,14 @@
+D:\Rider_Project\CodewarsTask\CodewarsTask\bin\Debug\net8.0\CodewarsTask.exe
+D:\Rider_Project\CodewarsTask\CodewarsTask\bin\Debug\net8.0\CodewarsTask.deps.json
+D:\Rider_Project\CodewarsTask\CodewarsTask\bin\Debug\net8.0\CodewarsTask.runtimeconfig.json
+D:\Rider_Project\CodewarsTask\CodewarsTask\bin\Debug\net8.0\CodewarsTask.dll
+D:\Rider_Project\CodewarsTask\CodewarsTask\bin\Debug\net8.0\CodewarsTask.pdb
+D:\Rider_Project\CodewarsTask\CodewarsTask\obj\Debug\net8.0\CodewarsTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rider_Project\CodewarsTask\CodewarsTask\obj\Debug\net8.0\CodewarsTask.AssemblyInfoInputs.cache
+D:\Rider_Project\CodewarsTask\CodewarsTask\obj\Debug\net8.0\CodewarsTask.AssemblyInfo.cs
+D:\Rider_Project\CodewarsTask\CodewarsTask\obj\Debug\net8.0\CodewarsTask.csproj.CoreCompileInputs.cache
+D:\Rider_Project\CodewarsTask\CodewarsTask\obj\Debug\net8.0\CodewarsTask.dll
+D:\Rider_Project\CodewarsTask\CodewarsTask\obj\Debug\net8.0\refint\CodewarsTask.dll
+D:\Rider_Project\CodewarsTask\CodewarsTask\obj\Debug\net8.0\CodewarsTask.pdb
+D:\Rider_Project\CodewarsTask\CodewarsTask\obj\Debug\net8.0\CodewarsTask.genruntimeconfig.cache
+D:\Rider_Project\CodewarsTask\CodewarsTask\obj\Debug\net8.0\ref\CodewarsTask.dll
