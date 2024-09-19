@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace CodewarsTask._6Level
 {
-    internal class BitCounting
+     class BitCounting
     {
         public static int CountBits(int n)
         {

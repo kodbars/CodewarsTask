@@ -21,7 +21,7 @@ using System.Threading.Tasks;
 
 namespace CodewarsTask._6Level
 {
-    internal class CountingDuplicates
+     class CountingDuplicates
     {
         public static int DuplicateCount(string str)
         {

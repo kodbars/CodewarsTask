@@ -24,7 +24,7 @@ using System.Threading.Tasks;
 
 namespace CodewarsTask._6Level
 {
-    internal class FindTheParityOutlier
+     class FindTheParityOutlier
     {
         public static int Find(int[] i)
         {
